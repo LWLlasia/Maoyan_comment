@@ -10,6 +10,7 @@ get_comment.py:
 
 
 使用前记得更改读取数据的路径！！！
+需要有phantomjs插件
 
 获取电影名字
 
