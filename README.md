@@ -23,3 +23,31 @@ get_comment.py:
 
 ![image](https://github.com/LWLlasia/Maoyan_comment/blob/master/139944849.jpg)
 
+
+
+猫眼手机版评论
+    http://m.maoyan.com/movie/1212592/comments?_v_=yes
+    
+获取以下数据
+
+
+
+
+
+
+
+
+![image](https://github.com/LWLlasia/Maoyan_comment/blob/master/image.png)
+
+
+
+
+
+
+
+
+存成以下格式
+
+
+![image](https://github.com/LWLlasia/Maoyan_comment/blob/master/295885059.jpg)
+
