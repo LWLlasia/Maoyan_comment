@@ -15,5 +15,5 @@ get_comment.py:
 需要有phantomjs插件
 
 获取电影名字
-![](https://github.com/LWLlasia/Maoyan_comment/edit/master/Maoyan_comment/139944849.jpg)
+![image](https://github.com/LWLlasia/Maoyan_comment/edit/master/Maoyan_comment/139944849.jpg)
 
