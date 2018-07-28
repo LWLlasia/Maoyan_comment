@@ -14,6 +14,12 @@ get_comment.py:
 
 需要有phantomjs插件
 
-获取电影名字
+从csv文件中获取电影名字
+
+
+
+
+
+
 ![image](https://github.com/LWLlasia/Maoyan_comment/blob/master/139944849.jpg)
 
